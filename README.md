@@ -1,2 +1,1 @@
-# PRO-C22
-arco #1
+# Plantilla-del-proyecto-C22
